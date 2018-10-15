@@ -1,0 +1,10 @@
+.SubmiteButton{
+width:"80px";
+margin-right:"10px"
+}
+.CancelButton{
+    width:"80px"
+}
+.help{
+    color: red;
+}
